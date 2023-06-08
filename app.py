@@ -4,7 +4,7 @@ from langchain import OpenAI
 import gradio as gr
 import os
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = 'sk-h*******cGfda7RA2zT3BlbkFJDMqSU6m6fmkNOaiPSlgt'
 
 def construct_index(directory_path):
     num_outputs = 512
